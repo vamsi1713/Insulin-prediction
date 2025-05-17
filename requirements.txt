@@ -1,0 +1,18 @@
+Required Python Packages
+numpy – for numerical computations
+
+pandas – for data manipulation and analysis
+
+matplotlib – for data visualization
+
+scikit-learn – for preprocessing, evaluation metrics, and train-test split
+
+tensorflow or keras – for building and training LSTM and GRU models
+
+torch (PyTorch) – for alternative model building, especially for reinforcement learning
+
+stable-baselines3 – for reinforcement learning algorithms (TD3)
+
+gym – for creating custom RL environments
+
+seaborn – for advanced data visualizations
